@@ -2,6 +2,12 @@
 
 Welcome to the Spacecraft Swarm Dynamics Visualization repository! This project aims to visualize spacecraft swarm dynamics, illustrating coordinated motion, communication networks, and distributed sensing capabilities of swarms of small satellites or spacecraft formations.
 
+## Introduction
+Spacecraft swarm dynamics refer to the coordinated motion, communication networks, and distributed sensing capabilities of multiple spacecraft operating together in space. Understanding and visualizing these dynamics are crucial for various space missions, including satellite constellations, asteroid exploration, and space debris management.
+
+## Why Spacecraft Swarm Dynamics Visualization?
+Spacecraft Swarm Dynamics Visualization provides a comprehensive tool for researchers, engineers, and space enthusiasts to explore and understand the behavior of spacecraft swarms. By visualizing coordinated motion, communication networks, and distributed sensing, users can gain valuable insights into the complex dynamics of these swarms, enabling better mission planning, spacecraft design, and space exploration strategies.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Why Spacecraft Swarm Dynamics Visualization?](#why-spacecraft-swarm-dynamics-visualization)
@@ -9,12 +15,6 @@ Welcome to the Spacecraft Swarm Dynamics Visualization repository! This project 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Introduction
-Spacecraft swarm dynamics refer to the coordinated motion, communication networks, and distributed sensing capabilities of multiple spacecraft operating together in space. Understanding and visualizing these dynamics are crucial for various space missions, including satellite constellations, asteroid exploration, and space debris management.
-
-## Why Spacecraft Swarm Dynamics Visualization?
-Spacecraft Swarm Dynamics Visualization provides a comprehensive tool for researchers, engineers, and space enthusiasts to explore and understand the behavior of spacecraft swarms. By visualizing coordinated motion, communication networks, and distributed sensing, users can gain valuable insights into the complex dynamics of these swarms, enabling better mission planning, spacecraft design, and space exploration strategies.
 
 ## Installation
 To use Spacecraft Swarm Dynamics Visualization, follow these steps:
