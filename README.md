@@ -5,9 +5,6 @@ Welcome to the Spacecraft Swarm Dynamics Visualization repository! This project 
 ## Introduction
 Spacecraft swarm dynamics refer to the coordinated motion, communication networks, and distributed sensing capabilities of multiple spacecraft operating together in space. Understanding and visualizing these dynamics are crucial for various space missions, including satellite constellations, asteroid exploration, and space debris management.
 
-## Why Spacecraft Swarm Dynamics Visualization?
-Spacecraft Swarm Dynamics Visualization provides a comprehensive tool for researchers, engineers, and space enthusiasts to explore and understand the behavior of spacecraft swarms. By visualizing coordinated motion, communication networks, and distributed sensing, users can gain valuable insights into the complex dynamics of these swarms, enabling better mission planning, spacecraft design, and space exploration strategies.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Why Spacecraft Swarm Dynamics Visualization?](#why-spacecraft-swarm-dynamics-visualization)
@@ -15,6 +12,11 @@ Spacecraft Swarm Dynamics Visualization provides a comprehensive tool for resear
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Why Spacecraft Swarm Dynamics Visualization?
+Spacecraft Swarm Dynamics Visualization provides a comprehensive tool for researchers, engineers, and space enthusiasts to explore and understand the behavior of spacecraft swarms. By visualizing coordinated motion, communication networks, and distributed sensing, users can gain valuable insights into the complex dynamics of these swarms, enabling better mission planning, spacecraft design, and space exploration strategies.
+
+![Figure_perfect_00102012](https://github.com/Rishit-katiyar/Spacecraft-Swarm-Dynamics-Visualization/assets/167756997/c5fdfeea-c678-4a50-be03-dd07a47e40d1)
 
 ## Installation
 To use Spacecraft Swarm Dynamics Visualization, follow these steps:
