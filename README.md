@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Spacecraft Swarm Dynamics Visualization 🛰️🌌
 
 Welcome to the Spacecraft Swarm Dynamics Visualization repository! This project aims to visualize spacecraft swarm dynamics, illustrating coordinated motion, communication networks, and distributed sensing capabilities of swarms of small satellites or spacecraft formations.
